@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("/images/human-microbiome.jpg");
+    background-size: 100%;
+    text-align: center;
+    color: red;
+}
+
+.colorchange{
+    background-color: lightgray;
+}
+
+.changefont{
+    font-family: "Times New Roman", Times, serif;
+}
